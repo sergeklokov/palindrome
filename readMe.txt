@@ -25,3 +25,7 @@ Input string: bb
 2
 Input string: z
 0
+
+
+By the way. Use tsc without any parameters to compile, or outDir will not work:
+https://stackoverflow.com/questions/45661027/typescript-outdir-setting-in-tsconfig-json-not-working
